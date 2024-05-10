@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhii1144&show_icons=true&locale=en" alt="adhii1144" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adhii1144&" alt="adhii1144" /></p>
+
+### connect the both the codes and generate only for the Adarsh Sunke
