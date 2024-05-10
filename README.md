@@ -32,4 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adhii1144&" alt="adhii1144" /></p>
 
-### connect the both the codes and generate only for the Adarsh Sunke
+###
